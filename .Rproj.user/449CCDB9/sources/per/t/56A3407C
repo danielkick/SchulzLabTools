@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517761398212.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "716813447",
+    "id" : "56A3407C",
+    "lastKnownWriteTime" : 1517761836,
+    "last_content_update" : 1517761836152,
+    "path" : "~/Documents/SchulzLabTools/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "2"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
