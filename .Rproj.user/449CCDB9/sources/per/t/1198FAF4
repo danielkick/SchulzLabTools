@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1517761398212.000,
+    "created" : 1558135325671.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "716813447",
-    "id" : "56A3407C",
+    "hash" : "2177191430",
+    "id" : "1198FAF4",
     "lastKnownWriteTime" : 1558135071,
     "last_content_update" : 1558135071,
-    "path" : "~/Documents/GitHub/SchulzLabTools/R/hello.R",
-    "project_path" : "R/hello.R",
+    "path" : "~/Documents/GitHub/SchulzLabTools/R/atf_functions.R",
+    "project_path" : "R/atf_functions.R",
     "properties" : {
-        "cursorPosition" : "20,0",
-        "scrollLine" : "2"
+        "cursorPosition" : "3,12",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 1,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

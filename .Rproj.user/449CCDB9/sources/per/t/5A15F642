@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558135348398.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3640802907",
+    "id" : "5A15F642",
+    "lastKnownWriteTime" : 1558136309,
+    "last_content_update" : 1558136309297,
+    "path" : "~/Documents/GitHub/SchulzLabTools/R/RT_qPCR_functions.R",
+    "project_path" : "R/RT_qPCR_functions.R",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
