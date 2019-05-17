@@ -1,1 +1,1 @@
-SchulzLabTools
+schulzlabtools
